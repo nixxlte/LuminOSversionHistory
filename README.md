@@ -29,3 +29,6 @@ on default wallpaper, when you select "Breeze Dark" the wallpaper changes to Bre
 <img width="427" height="321" alt="image" src="https://github.com/user-attachments/assets/56f0c0ff-1eca-4196-9da0-47560e0369a3" />
 <img width="427" height="321" alt="image" src="https://github.com/user-attachments/assets/fe83fca3-f27b-458b-8fe5-9dfdcb548376" />
 <img width="427" height="321" alt="image" src="https://github.com/user-attachments/assets/027a8610-45e7-4332-83ac-9e898bd63fde" /><br>
+
+### Build 2097
+this build still in development, but here somethings it already have
