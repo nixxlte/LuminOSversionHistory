@@ -32,3 +32,5 @@ on default wallpaper, when you select "Breeze Dark" the wallpaper changes to Bre
 
 ### Build 2097
 this build still in development, but here somethings it already have
+first of all, we have a document, writen by me (LuminOS owner) that describes the general contanier folders
+that document can be find [here](https://github.com/nixxlte/LuminOS/blob/main/2097.txt)
